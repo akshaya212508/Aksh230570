@@ -39,3 +39,5 @@ These projects showcase practical applications of **AWS Bedrock** for building L
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/akshayapriya-k-18a59b2a0/) | [Email](avk.akshayapriya@gmail.com) 
+
+
